@@ -1,10 +1,18 @@
-#A delicious recipe
-##Made by a GIT user
+# Recette du cochon de lait
 
-Three zests of `git commit`.
+![image](http://static.750g.com/images/1200-630/5b719b44795802953f74d811676a33df/cochon-de-lait-roti-au-four-maison.jpeg)
 
-![zest](https://www.gracefruit.com/uploads/images/products/large/gracefruit_gracefruit_lemonzestfragranceoil_1460546630Lemon_Zest_pic.jpg)
+## Ingrédients
 
-bla bla
-bla
-bla.
+Il nous faut:
+- Un cochon de lait
+- Une broche
+- Un feu
+- De la sauce
+
+## Recette
+La recette est simple:
+- Embrocher le cochon
+- Allumer le feu
+- Mettre la broche sur le feu 4 heures
+- Manger le cochon
